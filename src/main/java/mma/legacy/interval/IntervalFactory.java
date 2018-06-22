@@ -1,9 +1,9 @@
 package mma.legacy.interval;
 
-
 /**
- * Esta clase abstracta se ha creado por comodidad. 
- * Crea automáticamente intervalos
+ * Esta clase abstracta se ha creado por comodidad. Crea automáticamente
+ * intervalos
+ * 
  * @author Agustin
  *
  */
